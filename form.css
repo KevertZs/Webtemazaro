@@ -1,0 +1,44 @@
+body 
+{background-image: url("hatter.jpg");}
+h1 
+{color: blue;}
+p
+{text-align: justify;
+text-indent: 1em}
+form
+{margin: 0 auto;
+max-width: 1000px;
+background-color: rgb(172,243,243);
+padding: 20px;}
+img.keptarolo 
+{max-width: 200px;
+box-shadow: 0 0 5px gray;
+border-radius: 5px;
+float: left;
+margin-bottom: 15px;}
+div#keptar 
+{max-width: 200px;
+text-align: center;
+color: blue;
+text-decoration: underline blue;
+display: flex;
+flex-direction: row;
+gap: 50px;}
+p#kep
+{text-align: center;}
+mark.felkover
+{font-weight: bold;
+color: blue;
+background: none;}
+table, th, td
+{margin: auto;
+border: 1px solid blue;
+padding: 5px;
+text-align: center;
+border-collapse: collapse;}
+th
+{background: blue;
+color: white;}
+div.lablec
+{text-align: right;
+font-style: italic;}
